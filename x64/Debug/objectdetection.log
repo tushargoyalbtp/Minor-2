@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\tusha\source\repos\objectdetection\objectdetection\Source.cpp(89,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tusha\source\repos\objectdetection\objectdetection\Source.cpp(91,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tusha\source\repos\objectdetection\objectdetection\Source.cpp(103,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  objectdetection.vcxproj -> C:\Users\tusha\source\repos\objectdetection\x64\Debug\objectdetection.exe
